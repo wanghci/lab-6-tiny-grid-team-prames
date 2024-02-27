@@ -4,7 +4,7 @@
         grid-template-areas: 
         "content";
     }
-    .main-nav ul, .side, .ad, .main-footer, .main-head {
+    .main-nav, .side, .ad, .main-footer, .main-head {
         display: none;
     }
 }
